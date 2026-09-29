@@ -9,6 +9,7 @@ git remote -v sirve para ver la informacion de la carpeta en la que estamos
 git status-> Puedo ver que archivos estan registrados y cuales no
 
 git add intro.txt->Registrame este archivo para eventualmente enviarlo al repo
+
 git add .-> registra todo lo que este sin registrar (No recomedado de usar)
 
 git commit -m "Nombre" para subir una version del archivo
@@ -18,3 +19,7 @@ git log-> registro de commits creados
 git push-> envia los cambios al repo
 
 entonces si escribo algo ahora en teoria debo cargarlo
+
+registro->backup->envio 
+
+con git chekout + el id del commit puedo volver a una version anterior
