@@ -1,0 +1,9 @@
+Este es el primer repo que hago con la intencion de aprender
+
+git init-> Inicializa git en el proyecto, si no lo utilizo se registran las carpetas de toda la pc
+
+git remote add origin <enlace> Conecta remotamente a github
+
+git remote -v sirve para ver la informacion de la carpeta en la que estamos 
+
+git add intro.txt->Registrame este archivo para eventualmente enviarlo al repo
