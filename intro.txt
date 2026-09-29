@@ -22,4 +22,4 @@ entonces si escribo algo ahora en teoria debo cargarlo
 
 registro->backup->envio 
 
-con git chekout + el id del commit puedo volver a una version anterior
+con git checkout + el id del commit puedo volver a una version anterior
