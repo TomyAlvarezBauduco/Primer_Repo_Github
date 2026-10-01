@@ -21,5 +21,15 @@ git push-> envia los cambios al repo
 entonces si escribo algo ahora en teoria debo cargarlo
 
 registro->backup->envio 
+add->commit->push
 
 con git checkout + el id del commit puedo volver a una version anterior
+
+Algunos comandos útiles:
+
+q → salir/volver a la terminal
+↑ / ↓ → moverte
+Space → bajar una página
+b → subir una página
+/texto → buscar
+n → siguiente resultado
