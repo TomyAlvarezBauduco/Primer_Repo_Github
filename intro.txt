@@ -33,3 +33,7 @@ Space → bajar una página
 b → subir una página
 /texto → buscar
 n → siguiente resultado
+
+git push manda el cambio al repo
+ 
+ git pull trae los cambios del repo
